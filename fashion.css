@@ -251,3 +251,10 @@ h1{
     top: 50%;
   }
 }
+
+.main_footer h4 {
+  position: absolute;
+  bottom: -90px;
+  padding: 0 20px;
+  color: #ffff;
+}
